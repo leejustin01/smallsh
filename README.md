@@ -1,5 +1,4 @@
 # smallsh
-This is a portfolio project for Operating Systems 1.
 
 Smallsh implements a subset of features of well-known shells, such as bash. This program:
 
